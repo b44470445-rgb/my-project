@@ -4,5 +4,4 @@ Hello  Gemini
 
 This is my second update.
 
-
-Hello Git
+Hello there
